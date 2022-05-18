@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="400dp"
+    android:layout_height="60dp"
+    android:orientation="horizontal">
+    <ImageView
+        android:id="@+id/timage1"
+        android:layout_marginRight="20dp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/ic_snapchat"/>
+    <TextView
+        android:id="@+id/tname1"
+        android:layout_width="80dp"
+        android:layout_height="60dp"
+        android:text="U23 VietNam"
+        android:gravity="center"/>
+    <TextView
+        android:id="@+id/tgoal1"
+        android:layout_width="30dp"
+        android:layout_height="60dp"
+        android:text="1"
+        android:gravity="center"/>
+    <TextView
+        android:layout_width="10dp"
+        android:layout_height="60dp"
+        android:text=":"
+        android:gravity="center"/>
+    <TextView
+        android:id="@+id/tgoal2"
+        android:layout_width="30dp"
+        android:layout_height="60dp"
+        android:text="1"
+        android:gravity="center"/>
+    <TextView
+        android:id="@+id/tname2"
+        android:layout_width="80dp"
+        android:layout_height="60dp"
+        android:text="U23 Myanmar"
+        android:gravity="center"/>
+    <ImageView
+        android:id="@+id/timage2"
+        android:layout_marginLeft="20dp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/ic_snapchat" />
+</LinearLayout>

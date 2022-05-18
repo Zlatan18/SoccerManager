@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/matches" android:title="Matches" android:icon="@drawable/ic_matches"/>
+    <item android:id="@+id/news" android:title="News" android:icon="@drawable/ic_news"/>
+    <item android:id="@+id/cup" android:title="Cup" android:icon="@drawable/ic_cup"/>
+    <item android:id="@+id/following" android:title="Following" android:icon="@drawable/ic_following"/>
+    <item android:id="@+id/more" android:title="More" android:icon="@drawable/ic_more"/>
+</menu>

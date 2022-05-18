@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595824618133",
+    "project_id": "soccer-manager-2f5de",
+    "storage_bucket": "soccer-manager-2f5de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595824618133:android:64a10518f10051f529099c",
+        "android_client_info": {
+          "package_name": "com.soccermanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595824618133-4if7aff2t9vjb1up5i1deohf1urhphi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV6oPOE42UiD2X92JIvDM71POZPr64aqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595824618133-4if7aff2t9vjb1up5i1deohf1urhphi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
